@@ -1,0 +1,83 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar-collapse{
+    
+   display: flex;
+   justify-content: flex-end;
+}
+.link{
+    font-size: 19px;
+    
+}
+.navbar-nav{
+    gap: 5%;
+}
+.section{
+    background-image: url("https://img.freepik.com/free-photo/front-view-generic-brandless-moder-car_110488-502.jpg?size=626&ext=jpg&ga=GA1.2.1782607887.1636156800");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.lead{
+    font-size: 15px;
+}
+.text{
+    font-size: 40px;
+}
+/* hr{
+    color: blue;
+    border: double;
+    width: 70px;
+    border-radius: 15%;
+    align-items: center;
+
+} */
+.img{
+    max-width: 100%;
+}
+.icon{
+    background-color: blue;
+    width: 70px;
+    height: 50px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.section3{
+    background: #f2f6f7;
+}
+.b{
+    height: 10%;
+    
+}
+.map-form{
+    padding: 50px;
+    background-color: #3c3737;
+}
+.con{
+    border-radius: 50%;
+}
+.icon-square .bi{
+    font-size: 30px;
+    color: cornflowerblue;
+}
+.section4{
+    background-image: url("https://image.shutterstock.com/image-illustration/modern-cars-studio-room-3d-260nw-735402217.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.ic{
+    font-size: 40px;
+}
+footer{
+   background-color: rgba(0, 0, 0, 0.2);
+}
+.list-group a{
+    font-size: 20px;
+    color: black;
+}
